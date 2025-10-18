@@ -1,0 +1,15 @@
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Week3ArraysSorting.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Week3ArraysSorting.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Week3ArraysSorting.runtimeconfig.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Week3ArraysSorting.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Week3ArraysSorting.pdb
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Week3ArraysSorting.GeneratedMSBuildEditorConfig.editorconfig
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Week3ArraysSorting.AssemblyInfoInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Week3ArraysSorting.AssemblyInfo.cs
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Week3ArraysSorting.csproj.CoreCompileInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Week3ArraysSorting.sourcelink.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Week3ArraysSorting.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\refint\Week3ArraysSorting.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Week3ArraysSorting.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Week3ArraysSorting.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\ref\Week3ArraysSorting.dll

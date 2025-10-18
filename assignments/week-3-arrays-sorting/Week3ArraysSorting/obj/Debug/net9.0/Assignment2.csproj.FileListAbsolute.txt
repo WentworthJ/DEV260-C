@@ -1,0 +1,15 @@
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Assignment2.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Assignment2.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Assignment2.runtimeconfig.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Assignment2.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\bin\Debug\net9.0\Assignment2.pdb
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Assignment2.AssemblyInfoInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Assignment2.AssemblyInfo.cs
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Assignment2.csproj.CoreCompileInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Assignment2.sourcelink.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Assignment2.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\refint\Assignment2.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Assignment2.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\Assignment2.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-3-arrays-sorting\Week3ArraysSorting\obj\Debug\net9.0\ref\Assignment2.dll
