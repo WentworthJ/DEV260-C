@@ -1,0 +1,15 @@
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\bin\Debug\net9.0\Week2Foundations.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\bin\Debug\net9.0\Week2Foundations.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\bin\Debug\net9.0\Week2Foundations.runtimeconfig.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\bin\Debug\net9.0\Week2Foundations.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\bin\Debug\net9.0\Week2Foundations.pdb
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\Week2Foundations.GeneratedMSBuildEditorConfig.editorconfig
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\Week2Foundations.AssemblyInfoInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\Week2Foundations.AssemblyInfo.cs
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\Week2Foundations.csproj.CoreCompileInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\Week2Foundations.sourcelink.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\Week2Foundations.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\refint\Week2Foundations.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\Week2Foundations.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\Week2Foundations.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\week-2-foundations\Week2Foundations\obj\Debug\net9.0\ref\Week2Foundations.dll

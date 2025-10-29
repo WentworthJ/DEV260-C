@@ -1,0 +1,30 @@
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/StackLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/StackLab.AssemblyInfoInputs.cache
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/StackLab.AssemblyInfo.cs
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/StackLab.csproj.CoreCompileInputs.cache
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/StackLab.sourcelink.json
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/bin/Debug/net9.0/StackLab
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/bin/Debug/net9.0/StackLab.deps.json
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/bin/Debug/net9.0/StackLab.runtimeconfig.json
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/bin/Debug/net9.0/StackLab.dll
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/bin/Debug/net9.0/StackLab.pdb
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/StackLab.dll
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/refint/StackLab.dll
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/StackLab.pdb
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/StackLab.genruntimeconfig.cache
+/Users/zak_b_teaching/dev260_fall_2025/labs/lab_5_stacks/obj/Debug/net9.0/ref/StackLab.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\bin\Debug\net9.0\StackLab.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\bin\Debug\net9.0\StackLab.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\bin\Debug\net9.0\StackLab.runtimeconfig.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\bin\Debug\net9.0\StackLab.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\bin\Debug\net9.0\StackLab.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\StackLab.GeneratedMSBuildEditorConfig.editorconfig
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\StackLab.AssemblyInfoInputs.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\StackLab.AssemblyInfo.cs
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\StackLab.csproj.CoreCompileInputs.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\StackLab.sourcelink.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\StackLab.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\refint\StackLab.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\StackLab.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\StackLab.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\lab_5_stacks\obj\Debug\net9.0\ref\StackLab.dll

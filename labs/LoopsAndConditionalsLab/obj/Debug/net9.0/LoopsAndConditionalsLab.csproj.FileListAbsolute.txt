@@ -1,0 +1,15 @@
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.runtimeconfig.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.GeneratedMSBuildEditorConfig.editorconfig
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.AssemblyInfoInputs.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.AssemblyInfo.cs
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.csproj.CoreCompileInputs.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.sourcelink.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\refint\LoopsAndConditionalsLab.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\ref\LoopsAndConditionalsLab.dll
