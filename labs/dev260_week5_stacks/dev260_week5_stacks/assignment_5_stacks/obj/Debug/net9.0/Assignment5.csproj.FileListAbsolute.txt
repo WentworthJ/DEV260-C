@@ -13,3 +13,18 @@
 /Users/zak_b_teaching/dev260_fall_2025/assignments/assignment_5_stacks/obj/Debug/net9.0/Assignment5.pdb
 /Users/zak_b_teaching/dev260_fall_2025/assignments/assignment_5_stacks/obj/Debug/net9.0/Assignment5.genruntimeconfig.cache
 /Users/zak_b_teaching/dev260_fall_2025/assignments/assignment_5_stacks/obj/Debug/net9.0/ref/Assignment5.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\bin\Debug\net9.0\Assignment5.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\bin\Debug\net9.0\Assignment5.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\bin\Debug\net9.0\Assignment5.runtimeconfig.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\bin\Debug\net9.0\Assignment5.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\bin\Debug\net9.0\Assignment5.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\Assignment5.AssemblyInfoInputs.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\Assignment5.AssemblyInfo.cs
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\Assignment5.csproj.CoreCompileInputs.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\Assignment5.sourcelink.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\Assignment5.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\refint\Assignment5.dll
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\Assignment5.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\Assignment5.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\dev260_week5_stacks\dev260_week5_stacks\assignment_5_stacks\obj\Debug\net9.0\ref\Assignment5.dll
