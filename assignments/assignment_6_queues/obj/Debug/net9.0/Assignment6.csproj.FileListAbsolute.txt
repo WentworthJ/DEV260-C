@@ -1,0 +1,15 @@
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\bin\Debug\net9.0\Assignment6.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\bin\Debug\net9.0\Assignment6.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\bin\Debug\net9.0\Assignment6.runtimeconfig.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\bin\Debug\net9.0\Assignment6.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\bin\Debug\net9.0\Assignment6.pdb
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\Assignment6.AssemblyInfoInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\Assignment6.AssemblyInfo.cs
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\Assignment6.csproj.CoreCompileInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\Assignment6.sourcelink.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\Assignment6.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\refint\Assignment6.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\Assignment6.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\Assignment6.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\assignment_6_queues\obj\Debug\net9.0\ref\Assignment6.dll
