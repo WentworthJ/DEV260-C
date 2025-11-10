@@ -42,7 +42,7 @@ namespace QueueLab
     class Program
     {
         // TODO Step 1: Set up your data structures and tracking variables
-        private static Queue<SupportTicket> ticketQueue = new Queue<Support Ticket>();
+        private static Queue<SupportTicket> ticketQueue = new Queue<SupportTicket>();
         private static int ticketCounter = 1; // For generating unique ticket IDs
         private static int totalOperations = 0; // Track total queue operations
         private static DateTime sessionStart = DateTime.Now; // Track session duration
@@ -182,7 +182,7 @@ namespace QueueLab
             }
             // TODO:
             // 1. Create ticket ID using ticketCounter (format: "T001", "T002", etc.)
-            string ticketId = $"T{ticketCounter: D3}";
+            string ticketId = $"T{ticketCounter:D3}";
             // 2. Create new SupportTicket with ID, description, "Normal" priority, and "User"
             var ticket = new SupportTicket (ticketId, description, "Normal", "User");
             // 3. Enqueue the ticket to ticketQueue
@@ -202,10 +202,10 @@ namespace QueueLab
             // TODO:
             if (ticketQueue.Count > 0)
             {
-                Support Ticket ticket ticketQueue.Dequeue();
+                SupportTicket ticket = ticketQueue.Dequeue();
                 totalOperations++;
                 Console.WriteLine("\n Process Next Ticket");
-                Console.WriteLine(ticket. ToDetailedString());
+                Console.WriteLine(ticket.ToDetailedString());
 
                 if (ticketQueue.Count > 0){
                     Console.WriteLine($" Next ticket: {ticketQueue. Peek().TicketId} - {ticketQueue.Peek().Description}\n");
@@ -272,7 +272,7 @@ namespace QueueLab
                 foreach (var ticket in ticketQueue)
                 {
                     string nextMarker = position == 1 ? " <- Next" : "";
-                    Console.WriteLine($" {position: D2}. {ticket}{nextMarker}");
+                    Console.WriteLine($" {position:D2}. {ticket}{nextMarker}");
                     position++;
                 }
                 Console.WriteLine();
@@ -341,7 +341,7 @@ namespace QueueLab
             string ticketId = $"U{ticketCounter:D3}";
             var urgentTicket = new SupportTicket (ticketId, description!, "Urgent", "User");
             // For basic implementation, we will just enqueue normally
-            ticketQueue.Enqueue(urgent Ticket);
+            ticketQueue.Enqueue(urgentTicket);
             ticketCounter++;
             totalOperations++;
             Console.WriteLine($" Urgent Ticket ID: {ticketId} submitted successfully!"); 
@@ -369,47 +369,48 @@ namespace QueueLab
             Console.WriteLine("\n Search Support Tickets");
             if (ticketQueue.Count > 0)
             {
-            Console.WriteLine("Enter ticket ID or description keyword:");
-            string? searchTerm Console.ReadLine()?.Trim();
+                Console.WriteLine("Enter ticket ID or description keyword:");
+                string? searchTerm = Console.ReadLine()?.Trim();
 
-            if (string.IsNullOrWhiteSpace (searchTerm))
-            {
-                Console.WriteLine("Search term cannot be empty. Search cancelled.\n");
-                return;
-            }
-            bool isFound = false;
-            int position = 1;
-            Console.WriteLine("\nSearch results:");
-            foreach (var ticket in ticketQueue)
-            {
-                if (ticket. TicketId.ToLower().Contains(searchTerm.ToLower()) || 
-                ticket.Description.ToLower().Contains(searchTerm.ToLower()))
+                if (string.IsNullOrWhiteSpace(searchTerm))
                 {
-                    Console.WriteLine($" {position:D2}. {ticket}"); 
-                    isFound = true
+                    Console.WriteLine("Search term cannot be empty. Search cancelled.\n");
+                    return;
                 }
-                position++;
+                bool isFound = false;
+                int position = 1;
+                Console.WriteLine("\nSearch results:");
+                foreach (var ticket in ticketQueue)
+                {
+                    if (ticket.TicketId.ToLower().Contains(searchTerm.ToLower()) ||
+                    ticket.Description.ToLower().Contains(searchTerm.ToLower()))
+                    {
+                        Console.WriteLine($" {position:D2}. {ticket}");
+                        isFound = true;
+                    }
+                    position++;
+                }
+                if (!isFound)
+                {
+                    Console.WriteLine($"X No tickets found matching '{searchTerm}'\n");
+                }
+                Console.WriteLine();
+                // 1. Display header "Search Tickets"
+                // 2. Check if queue is empty
+                // 3. If empty, show "Queue is empty. No tickets to search" and return
+                // 4. If not empty:
+                //    - Prompt for search term: "Enter ticket ID or description keyword:"
+                //    - Validate search term is not empty or whitespace
+                //    - If empty, show error and return
+                //    - Convert search term to lowercase for case-insensitive search
+                //    - Initialize found flag to false and position counter to 1
+                //    - Display "Search results:" header
+                //    - Loop through queue using foreach:
+                //      - Check if ticket ID or description contains search term (use ToLower())
+                //      - If match found, display position and ticket info, set found flag
+                //      - Increment position counter
+                //    - After loop, if no matches found, show "No tickets found matching '[searchterm]'"
             }
-            if (!isFound)
-            {
-                Console.WriteLine($"X No tickets found matching '{searchTerm}'\n");
-            }
-            Console.WriteLine();
-            // 1. Display header "Search Tickets"
-            // 2. Check if queue is empty
-            // 3. If empty, show "Queue is empty. No tickets to search" and return
-            // 4. If not empty:
-            //    - Prompt for search term: "Enter ticket ID or description keyword:"
-            //    - Validate search term is not empty or whitespace
-            //    - If empty, show error and return
-            //    - Convert search term to lowercase for case-insensitive search
-            //    - Initialize found flag to false and position counter to 1
-            //    - Display "Search results:" header
-            //    - Loop through queue using foreach:
-            //      - Check if ticket ID or description contains search term (use ToLower())
-            //      - If match found, display position and ticket info, set found flag
-            //      - Increment position counter
-            //    - After loop, if no matches found, show "No tickets found matching '[searchterm]'"
         }
 
         static void HandleQueueStatistics()
@@ -485,4 +486,3 @@ namespace QueueLab
     }
 }
 
-}
