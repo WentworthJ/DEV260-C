@@ -1,0 +1,15 @@
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\bin\Debug\net9.0\QueueLab.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\bin\Debug\net9.0\QueueLab.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\bin\Debug\net9.0\QueueLab.runtimeconfig.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\bin\Debug\net9.0\QueueLab.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\bin\Debug\net9.0\QueueLab.pdb
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\QueueLab.GeneratedMSBuildEditorConfig.editorconfig
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\QueueLab.AssemblyInfoInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\QueueLab.AssemblyInfo.cs
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\QueueLab.csproj.CoreCompileInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\QueueLab.sourcelink.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\QueueLab.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\refint\QueueLab.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\QueueLab.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\QueueLab.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\labs\lab-6-queues\obj\Debug\net9.0\ref\QueueLab.dll
