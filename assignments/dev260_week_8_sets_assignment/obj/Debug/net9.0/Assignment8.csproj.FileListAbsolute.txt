@@ -1,0 +1,15 @@
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.runtimeconfig.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.pdb
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.AssemblyInfoInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.AssemblyInfo.cs
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.csproj.CoreCompileInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.sourcelink.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\refint\Assignment8.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week_8_sets_assignment\obj\Debug\net9.0\ref\Assignment8.dll
