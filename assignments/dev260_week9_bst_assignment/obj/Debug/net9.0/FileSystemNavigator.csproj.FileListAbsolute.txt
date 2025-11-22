@@ -1,0 +1,15 @@
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\FileSystemNavigator.GeneratedMSBuildEditorConfig.editorconfig
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\FileSystemNavigator.AssemblyInfoInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\FileSystemNavigator.AssemblyInfo.cs
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\FileSystemNavigator.csproj.CoreCompileInputs.cache
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\FileSystemNavigator.sourcelink.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\bin\Debug\net9.0\FileSystemNavigator.exe
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\bin\Debug\net9.0\FileSystemNavigator.deps.json
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\bin\Debug\net9.0\FileSystemNavigator.runtimeconfig.json
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\bin\Debug\net9.0\FileSystemNavigator.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\bin\Debug\net9.0\FileSystemNavigator.pdb
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\FileSystemNavigator.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\refint\FileSystemNavigator.dll
+f:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\FileSystemNavigator.pdb
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\FileSystemNavigator.genruntimeconfig.cache
+F:\Writings\Jason\Bellevue School Stuff\DEV260-C\assignments\dev260_week9_bst_assignment\obj\Debug\net9.0\ref\FileSystemNavigator.dll
